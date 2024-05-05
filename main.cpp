@@ -1,7 +1,7 @@
 #include "mainwindow.h"
 #include <QApplication>
 
-#include "test.h"
+//#include "test.h"
 #include "algorithms.h"
 #include "widgetgraph.h"
 
