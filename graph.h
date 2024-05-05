@@ -2,12 +2,10 @@
 #define GRAPH_H
 
 #include "noeud.h"
-#include "exceptions.h"
 
 #include <memory>
 #include <sstream>
 
-using namespace exceptions;
 
 using std::make_unique;
 using std::stringstream;
