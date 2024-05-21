@@ -10,15 +10,22 @@ Il peut également ajouter, supprimer et modifier manuellement les nœuds et les
 
 Affichage du graphe :
 Le graphe est représenté graphiquement à l'écran, avec des nœuds et des arêtes.
+
 L'utilisateur peut zoomer, déplacer et organiser la disposition du graphe pour une meilleure visualisation.
+
 Algorithmes de base sur les graphes :
 Algorithme de Dijkstra : permet de trouver le chemin le plus court entre deux nœuds.
+
 Algorithme de Prim : permet de trouver l'arbre couvrant minimal d'un graphe.
+
 Algorithme de Kruskal : permet également de trouver l'arbre couvrant minimal.
+
 Algorithme de Pröfer : permet d'encoder et de décoder une permutation de Prüfer, une représentation compacte des arbres.
+
 
 Fonctionnalités avancées :
 Ajout, suppression et modification des nœuds et des arêtes du graphe.
+
 Sauvegarde et chargement des graphes pour permettre leur réutilisation.
 
 Structure du projet :
