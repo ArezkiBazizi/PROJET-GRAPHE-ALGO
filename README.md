@@ -5,7 +5,9 @@ Fonctionnalités principales :
 
 Saisie du graphe :
 L'utilisateur peut saisir la matrice d'adjacence du graphe à l'aide d'une interface dédiée.
+
 Il peut également ajouter, supprimer et modifier manuellement les nœuds et les arêtes du graphe.
+
 Affichage du graphe :
 Le graphe est représenté graphiquement à l'écran, avec des nœuds et des arêtes.
 L'utilisateur peut zoomer, déplacer et organiser la disposition du graphe pour une meilleure visualisation.
