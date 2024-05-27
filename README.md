@@ -45,6 +45,6 @@ Aperçus de l'interface:
 
 Ce projet à était implimenté par en les étudiants de L3 MIAGE de l'Université de Haute Alsace.
 
-NB : L'absence de commit dans cette version est due au fait que cette version est un reupload de la version finale, à cause d'un problème lié à une erreur de fusion.
+NB : L'absence d'une partie de l'historique des commits dans cette version est due au fait que cette version est un reupload de la version finale, à cause d'un problème lié à une erreur de fusion.
 
 
